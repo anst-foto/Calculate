@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate.Lib", "Calculate.Lib\Calculate.Lib.csproj", "{D684539C-1504-4914-AD79-9D6D127DF9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate.Lib.Test", "Calculate.Lib.Test\Calculate.Lib.Test.csproj", "{F2308C1D-3A7B-49D0-A235-CBDE3505643F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "items", "items", "{0FBB66F5-E5F9-48D3-A360-50DB5E4E83DB}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D684539C-1504-4914-AD79-9D6D127DF9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D684539C-1504-4914-AD79-9D6D127DF9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D684539C-1504-4914-AD79-9D6D127DF9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D684539C-1504-4914-AD79-9D6D127DF9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2308C1D-3A7B-49D0-A235-CBDE3505643F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2308C1D-3A7B-49D0-A235-CBDE3505643F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2308C1D-3A7B-49D0-A235-CBDE3505643F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2308C1D-3A7B-49D0-A235-CBDE3505643F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
